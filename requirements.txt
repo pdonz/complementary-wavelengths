@@ -1,0 +1,5 @@
+streamlit
+colour-science
+plotly
+pandas
+numpy
